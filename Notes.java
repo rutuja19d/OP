@@ -1,5 +1,5 @@
 //dedefish@ncsu.edu
-package com.gladydennyson.dion.onpoint;
+package com.a.onpoint;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
