@@ -1,4 +1,4 @@
-package com.gladydennyson.dion.onpoint;
+package com.a.onpoint;
 
 import android.content.Context;
 import android.content.Intent;
